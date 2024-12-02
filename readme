@@ -1,0 +1,11 @@
+1. Установите зависимости:
+   
+   npm install express axios path
+
+2. Запустите сервер:
+
+    npm start
+
+3. Откройте в браузере:
+
+    http://localhost:3000
